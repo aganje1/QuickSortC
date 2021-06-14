@@ -1,2 +1,2 @@
 # QuickSortC
-Program.cs contains a serial versiono of Quicksort.
+Program.cs contains a serial version of Quicksort.
