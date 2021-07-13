@@ -28,7 +28,7 @@ namespace CQUickSort
         /// <summary>
         /// Swaps the index values. 
         /// </summary>
-        /// <param name="a"></param>
+        /// <param name="a"></param> 
         /// <param name="b"></param>
         public static void Swap(int[] numbers, int left, int right)
         {
@@ -43,7 +43,7 @@ namespace CQUickSort
         /// <param name="arr"></param>
         /// <param name="left"></param>
         /// <param name="right"></param>
-        /// <returns></returns>
+        /// <returns>index</returns>
         public static int Partition(int[] arr, int left, int right)
         {
             int index = left;
